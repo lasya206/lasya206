@@ -5,9 +5,11 @@
 ## Skills
 - SQL
 - Python
-- Java
 - Data Analysis
-
+- Excel
+- Power BI
+- statistics
+  
 ## Achievements
 🥉 HackerRank SQL Bronze Level – 85 Points
 
