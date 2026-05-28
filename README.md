@@ -11,7 +11,7 @@
 - statistics
   
 ## Achievements
-🥉 HackerRank SQL Bronze Level – 85 Points
+🥉 HackerRank SQL Gold Level – 730 Points
 
 ## Profiles
 HackerRank: https://www.hackerrank.com/profile/piskalakshmilas1
